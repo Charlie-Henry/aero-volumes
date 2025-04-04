@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Aero Volumes'
+theme = 'hyde'
+
+[Menus]
+  main = [
+      {Name = "Get the data", URL = "https://rapidapi.com/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+  ]
+
+[params]
+  description = "TSA volume trends for every airport in America"
+  themeColor = "theme-base-0d"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    	unsafe = true
