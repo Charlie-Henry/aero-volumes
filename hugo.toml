@@ -6,7 +6,7 @@ theme = 'hyde'
 [Menus]
   main = [
       {Name = "Get the data", URL = "https://rapidapi.com/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/charlie-henry/"}
   ]
 
 [params]
