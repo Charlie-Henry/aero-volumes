@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-04-04T00:43:06-05:00</lastmod>
+    <loc>http://localhost:1313/posts/usa/</loc>
+    <lastmod>2025-04-04T00:08:53-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-04T00:43:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-04-04T00:08:53-05:00</lastmod>
+    <lastmod>2025-04-15T17:30:24-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-04T00:08:53-05:00</lastmod>
+    <lastmod>2025-04-15T17:30:24-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/washington-dc/</loc>
+    <lastmod>2025-04-15T17:30:24-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/canadians/</loc>
+    <lastmod>2025-04-15T17:24:25-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/spring-break/</loc>
+    <lastmod>2025-04-04T11:51:05-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

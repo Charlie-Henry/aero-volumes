@@ -6,14 +6,35 @@
     <description>Recent content in Posts on Aero Volumes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 00:08:53 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 17:30:24 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>USA-Wide Trends</title>
+      <link>http://localhost:1313/posts/usa/</link>
       <pubDate>Fri, 04 Apr 2025 00:08:53 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;usa-trends&#34;&gt;USA Trends&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;div style=&#34;min-height:437px&#34; id=&#34;datawrapper-vis-ygida&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/ygida/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-ygida&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/ygida/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;&#xA;&lt;div style=&#34;min-height:410px&#34; id=&#34;datawrapper-vis-JjYv9&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/JjYv9/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-JjYv9&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/JjYv9/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;&#xA;&lt;div style=&#34;min-height:410px&#34; id=&#34;datawrapper-vis-Tusea&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/Tusea/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-Tusea&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/Tusea/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/posts/usa/</guid>
+      <description>&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;div style=&#34;min-height:437px&#34; id=&#34;datawrapper-vis-ygida&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/ygida/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-ygida&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/ygida/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;&#xA;&lt;div style=&#34;min-height:410px&#34; id=&#34;datawrapper-vis-JjYv9&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/JjYv9/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-JjYv9&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/JjYv9/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Washington, DC</title>
+      <link>http://localhost:1313/posts/washington-dc/</link>
+      <pubDate>Tue, 15 Apr 2025 17:30:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/washington-dc/</guid>
+      <description>&lt;p&gt;What has happened to passenger traffic at DC&amp;rsquo;s three airports?&lt;/p&gt;&#xA;&lt;div style=&#34;min-height:437px&#34; id=&#34;datawrapper-vis-l1q1c&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/l1q1c/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-l1q1c&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/l1q1c/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Canadians</title>
+      <link>http://localhost:1313/posts/canadians/</link>
+      <pubDate>Tue, 15 Apr 2025 17:24:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/canadians/</guid>
+      <description>&lt;p&gt;What are the trends at airports frequented by Canadians?&lt;/p&gt;&#xA;&lt;div style=&#34;min-height:437px&#34; id=&#34;datawrapper-vis-afLE7&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/afLE7/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-afLE7&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/afLE7/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Spring Break 2025</title>
+      <link>http://localhost:1313/posts/spring-break/</link>
+      <pubDate>Fri, 04 Apr 2025 11:51:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/spring-break/</guid>
+      <description>&lt;p&gt;What are the trends at some of the biggest Spring Break destinations so far this year?&lt;/p&gt;&#xA;&lt;div style=&#34;min-height:437px&#34; id=&#34;datawrapper-vis-72FNu&#34;&gt;&lt;script type=&#34;text/javascript&#34; defer src=&#34;https://datawrapper.dwcdn.net/72FNu/embed.js&#34; charset=&#34;utf-8&#34; data-target=&#34;#datawrapper-vis-72FNu&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&#34;https://datawrapper.dwcdn.net/72FNu/full.png&#34; alt=&#34;&#34; /&gt;&lt;/noscript&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
