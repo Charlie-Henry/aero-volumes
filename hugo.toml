@@ -5,7 +5,7 @@ theme = 'hyde'
 
 [Menus]
   main = [
-      {Name = "Get the data", URL = "https://rapidapi.com/"},
+      {Name = "Get the data", URL = "https://rapidapi.com/CharlieHenry/api/aerovolumes"},
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/charlie-henry/"}
   ]
 
