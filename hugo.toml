@@ -1,4 +1,4 @@
-baseURL = 'https://aero-volumes.onrender.com/'
+baseURL = 'https://www.aerovolumes.com/'
 languageCode = 'en-us'
 title = 'Aero Volumes'
 theme = 'hyde'
