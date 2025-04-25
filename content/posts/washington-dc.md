@@ -1,6 +1,5 @@
 +++
 date = '2025-04-15T17:30:24-05:00'
-draft = true
 title = 'Washington, DC'
 excerpt_separator= '<!--more-->'
 +++

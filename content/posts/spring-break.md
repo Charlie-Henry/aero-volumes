@@ -1,6 +1,5 @@
 +++
 date = '2025-04-04T11:51:05-05:00'
-draft = true
 title = 'Spring Break 2025'
 excerpt_separator= '<!--more-->'
 +++
