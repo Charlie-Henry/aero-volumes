@@ -33,3 +33,7 @@ Aspen, Colorado
 Daytona Beach, Florida 
 
 <div style="min-height:410px" id="datawrapper-vis-Wwe7O"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/Wwe7O/embed.js" charset="utf-8" data-target="#datawrapper-vis-Wwe7O"></script><noscript><img src="https://datawrapper.dwcdn.net/Wwe7O/full.png" alt="" /></noscript></div>
+
+Las Vegas, Nevada
+
+<div style="min-height:410px" id="datawrapper-vis-94zBl"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/94zBl/embed.js" charset="utf-8" data-target="#datawrapper-vis-94zBl"></script><noscript><img src="https://datawrapper.dwcdn.net/94zBl/full.png" alt="" /></noscript></div>
