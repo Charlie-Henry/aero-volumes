@@ -1,11 +1,14 @@
 +++
 date = '2025-05-09T14:44:41-05:00'
 title = 'New York City'
+excerpt_separator= '<!--more-->'
 +++
 
 How busy are NYC's three airports?
 
 <div style="min-height:437px" id="datawrapper-vis-ILSUJ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ILSUJ/embed.js" charset="utf-8" data-target="#datawrapper-vis-ILSUJ"></script><noscript><img src="https://datawrapper.dwcdn.net/ILSUJ/full.png" alt="" /></noscript></div>
+
+<!--more-->
 
 Newark International Airport
 
