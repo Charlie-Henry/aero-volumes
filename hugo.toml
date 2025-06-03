@@ -5,8 +5,9 @@ theme = 'hyde'
 
 [Menus]
   main = [
-      {Name = "Get the data", URL = "https://rapidapi.com/CharlieHenry/api/aerovolumes"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/charlie-henry/"}
+      {Name = "Get the data", URL = "https://rapidapi.com/CharlieHenry/api/aerovolumes", Weight=0},
+      {Name = "Twitter", URL = "https://x.com/aerovolumes", Weight=1},
+      {Name = "Bluesky", URL = "https://bsky.app/profile/aerovolumes.com", Weight=2}
   ]
 
 [params]
